@@ -67,7 +67,7 @@ Pull request accepted if you have good ressources to share!
   * 2.6.6 System DTrace Scripts
 * 2.7 Wrapping Up
 
-### 3. The Art of Crafting SHellcodes
+### 3. The Art of Crafting Shellcodes
 * 3.1 Writing Shellcode in ASM
   * 3.1.1 Calling Conventions and Registers
   * 3.1.2 System Call Numbering
