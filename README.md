@@ -255,5 +255,3 @@ Pull request accepted if you have good ressources to share!
   * 12.5.1 CVE-2020-9934 - HOME Relocation
 * 12.6 The Core
 * 12.7 Wrapping Up
-
- 
