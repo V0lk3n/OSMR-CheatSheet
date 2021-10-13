@@ -9,9 +9,9 @@ Pull request accepted if you have good ressources to share!
 ## Table of Content
 
 ### 1. Introduction to macOS
-* 1.1 macOS System Overview
-* 1.2 High-Level OS Architecture
-  * 1.2.1 Apple Proprietary File System (APFS)
+* <a href="https://github.com/V0lk3n/OSMR-CheatSheet/blob/main/1%20-%20Introduction%20to%20macOS/1.1%20-%20macOS%20System%20Overview/1.1%20-%20macOS%20System%20Overview.md">1.1 macOS System Overview</a>
+* <a href="https://github.com/V0lk3n/OSMR-CheatSheet/blob/main/1%20-%20Introduction%20to%20macOS/1.2%20-%20High-Level%20OS%20Architecture/1.2%20-%20High-Level%20OS%20Architecture.md">1.2 High-Level OS Architecture</a>
+  * <a href="https://github.com/V0lk3n/OSMR-CheatSheet/blob/main/1%20-%20Introduction%20to%20macOS/1.2%20-%20High-Level%20OS%20Architecture/1.2.1%20-%20Apple%20Proprietary%20File%20System%20(APFS).md">1.2.1 Apple Proprietary File System (APFS)</a>
   * 1.2.2 System Volume Protections
   * 1.2.3 Firmlinks
   * 1.2.4 Important Directories
