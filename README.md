@@ -39,9 +39,9 @@ Pull request accepted if you have good ressources to share!
 
 ### 2. macOS Binary Anaylsis Tools
 * 2.1 Command Line Static Analysis Tools
-  * 2.1.1 codesign
-  * 2.1.2 objdump
-  * 2.1.3 jtool2
+  * <a href="https://www.unix.com/man-page/osx/1/codesign/">2.1.1 codesign</a>
+  * <a href="https://www.unix.com/man-page/osx/1/objdump/">2.1.2 objdump</a>
+  * <a href="http://www.newosxbook.com/tools/jtool.html">2.1.3 jtool2</a>
 * 2.2 Static Analysis with Hopper
   * 2.2.1 Views in Hopper
   * 2.2.2 Navigating the Code
@@ -215,7 +215,7 @@ Pull request accepted if you have good ressources to share!
   * 10.2.3 Exploitable Conditions
 * 10.3 CVE-2020-3855 - macOS DiagnosticMessages File Overwrite Vulnerability
 * 10.4 CVE-2020-3762 - Adobe Reader macOS Installer Local Privilege Escalation
-* 10.5 CVE-2019-8802 - macOS Manpages Local Privilege Escalation
+* 10.5 CVE-2019-8802 - macOS Manpages Local Privilege Escalation <a href="https://www.exploit-db.com/exploits/48464">[Exploit Link]</a>
 * 10.6 Wrapping Up
 
 ### 11. Getting Kernel Code Execution
@@ -252,6 +252,6 @@ Pull request accepted if you have good ressources to share!
   * 12.4.2 PAM Modules
   * 12.4.3 This is the Way
 * 12.5 Private Documents - We Wants It, We Needs It
-  * 12.5.1 CVE-2020-9934 - HOME Relocation
+  * <a href="https://github.com/V0lk3n/OSMR-CheatSheet/blob/main/12%20-%20macOS%20Penetration%20Testing/12.5%20-%20Private%20Documents%20-%20We%20Wants%20It%2C%20We%20Need%20It/12.5.1%20-%20CVE-2020-9934%20-%20Home%20Relocation.md">12.5.1 CVE-2020-9934 - HOME Relocation</a>
 * 12.6 The Core
 * 12.7 Wrapping Up
