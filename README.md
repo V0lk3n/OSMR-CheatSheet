@@ -42,13 +42,13 @@ Pull request accepted if you have good ressources to share!
   * <a href="https://www.unix.com/man-page/osx/1/codesign/">2.1.1 codesign</a>
   * <a href="https://www.unix.com/man-page/osx/1/objdump/">2.1.2 objdump</a>
   * <a href="http://www.newosxbook.com/tools/jtool.html">2.1.3 jtool2</a>
-* 2.2 Static Analysis with Hopper
+* 2.2 Static Analysis with Hopper <a href="https://www.hopperapp.com/">[Hopper Website Link]</a>
   * 2.2.1 Views in Hopper
   * 2.2.2 Navigating the Code
   * 2.2.3 External C Function Resolution
 * 2.3 Dynamic Analysis
   * 2.3.1 macOS Debugging Rules
-* 2.4 The LLDB Debugger
+* 2.4 The LLDB Debugger <a href="https://lldb.llvm.org/">[LLDB Website Link]</a>
   * 2.4.1 Setting Breakpoints
   * 2.4.2 Disassembling with LLDB
   * 2.4.3 Reading and Writing Memory, and Registers
