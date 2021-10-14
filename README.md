@@ -15,11 +15,11 @@ Pull request accepted if you have good ressources to share!
   * <a href="https://github.com/V0lk3n/OSMR-CheatSheet/blob/main/1%20-%20Introduction%20to%20macOS/1.2%20-%20High-Level%20OS%20Architecture/1.2.2%20-%20System%20Volume%20Protections.md">1.2.2 System Volume Protections</a>
   * <a href="https://github.com/V0lk3n/OSMR-CheatSheet/blob/main/1%20-%20Introduction%20to%20macOS/1.2%20-%20High-Level%20OS%20Architecture/1.2.3%20-%20Firmlinks.md">1.2.3 Firmlinks</a>
   * 1.2.4 Important Directories
-  * 1.2.5 Property List Files
-  * 1.2.6 Bundles
-  * 1.2.7 The Application Bundle
-  * 1.2.8 Other Bundles
-  * 1.2.9 The dyld Shared Cache
+  * <a href="https://github.com/V0lk3n/OSMR-CheatSheet/blob/main/1%20-%20Introduction%20to%20macOS/1.2%20-%20High-Level%20OS%20Architecture/1.2.5%20-%20Property%20List%20Files.md">1.2.5 Property List Files</a>
+  * <a href="https://github.com/V0lk3n/OSMR-CheatSheet/blob/main/1%20-%20Introduction%20to%20macOS/1.2%20-%20High-Level%20OS%20Architecture/1.2.6%20-%20Bundles.md">1.2.6 Bundles</a>
+  * <a href="https://github.com/V0lk3n/OSMR-CheatSheet/blob/main/1%20-%20Introduction%20to%20macOS/1.2%20-%20High-Level%20OS%20Architecture/1.2.7%20-%20The%20Application%20Bundle.md">1.2.7 The Application Bundle</a>
+  * <a href="https://github.com/V0lk3n/OSMR-CheatSheet/blob/main/1%20-%20Introduction%20to%20macOS/1.2%20-%20High-Level%20OS%20Architecture/1.2.8%20-%20Other%20Bundles.md">1.2.8 Other Bundles</a>
+  * <a href="https://github.com/V0lk3n/OSMR-CheatSheet/blob/main/1%20-%20Introduction%20to%20macOS/1.2%20-%20High-Level%20OS%20Architecture/1.2.9%20-%20The%20dyld%20Shared%20Cache.md">1.2.9 The dyld Shared Cache</a>
 * 1.3 The Mach-O File Format
   * 1.3.1 Universal Binaries
   * 1.3.2 Mach-O Structure
