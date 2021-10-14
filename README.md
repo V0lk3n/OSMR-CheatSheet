@@ -95,7 +95,7 @@ Pull request accepted if you have good ressources to share!
 * 3.5 Wrapping Up
 
 ### 4. Dylib Injection
-* 4.1 DYLD_INSERT_LIBRARIES Injection in macOS
+* <a href="https://github.com/V0lk3n/OSMR-CheatSheet/blob/main/4%20-%20Dylib%20Injection/4.1%20-%20DYLD_INSERT_LIBRARIES%20Injection%20in%20macOS/4.1%20-%20DYLD_INSERT_LIBRARIES%20Injection%20in%20macOS.md">4.1 DYLD_INSERT_LIBRARIES Injection in macOS</a>
   * 4.1.1 Performing an Injection
   * 4.1.2 Restrictions of DYLD_ISNERT_LIBRARIES Injection
   * 4.1.3 Verifying Restrictions
