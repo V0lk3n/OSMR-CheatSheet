@@ -12,8 +12,8 @@ Pull request accepted if you have good ressources to share!
 * <a href="https://github.com/V0lk3n/OSMR-CheatSheet/blob/main/1%20-%20Introduction%20to%20macOS/1.1%20-%20macOS%20System%20Overview/1.1%20-%20macOS%20System%20Overview.md">1.1 macOS System Overview</a>
 * <a href="https://github.com/V0lk3n/OSMR-CheatSheet/blob/main/1%20-%20Introduction%20to%20macOS/1.2%20-%20High-Level%20OS%20Architecture/1.2%20-%20High-Level%20OS%20Architecture.md">1.2 High-Level OS Architecture</a>
   * <a href="https://github.com/V0lk3n/OSMR-CheatSheet/blob/main/1%20-%20Introduction%20to%20macOS/1.2%20-%20High-Level%20OS%20Architecture/1.2.1%20-%20Apple%20Proprietary%20File%20System%20(APFS).md">1.2.1 Apple Proprietary File System (APFS)</a>
-  * 1.2.2 System Volume Protections
-  * 1.2.3 Firmlinks
+  * <a href="https://github.com/V0lk3n/OSMR-CheatSheet/blob/main/1%20-%20Introduction%20to%20macOS/1.2%20-%20High-Level%20OS%20Architecture/1.2.2%20-%20System%20Volume%20Protections.md">1.2.2 System Volume Protections</a>
+  * <a href="https://github.com/V0lk3n/OSMR-CheatSheet/blob/main/1%20-%20Introduction%20to%20macOS/1.2%20-%20High-Level%20OS%20Architecture/1.2.3%20-%20Firmlinks.md">1.2.3 Firmlinks</a>
   * 1.2.4 Important Directories
   * 1.2.5 Property List Files
   * 1.2.6 Bundles
