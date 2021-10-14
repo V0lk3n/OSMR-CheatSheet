@@ -2,7 +2,7 @@
 This repo as for goal to get ressources based on OSMR Syllabus.
 
 ## Note
-I have not taken this course, as there is no standalone option i cant take it. Thats why i made this repo to teach myself and other student in the same situtation as mine.
+I have not taken this course. Keep in mind that there is nothing related from the OSMR course (that's not my notes, or prepartion for OSMR). I'm just adding Open Source ressources to subject that match with the OSMR syllabus.
 
 Pull request accepted if you have good ressources to share!
 
