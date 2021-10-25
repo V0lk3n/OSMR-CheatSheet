@@ -78,7 +78,7 @@ Pull request accepted if you have good ressources to share!
   * 3.2.3 Setting up the Syscall
   * 3.2.4 Putting it Together
   * 3.2.5 Analyzing the Shellcode with dtrace
-  * 3.2.6 Analyzing the SHellcode in a Debugger
+  * 3.2.6 Analyzing the Shellcode in a Debugger
 * 3.3 Making a Bind Shell in Assembly
   * 3.3.1 Creating a Socket
   * 3.3.2 In the Darkness Bind Them
