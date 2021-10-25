@@ -121,7 +121,7 @@ Pull request accepted if you have good ressources to share!
   * 5.4.4 Putting it Together
 * 5.5 Injecting a Dylib
   * 5.5.1 Promoting Mach Thread to POSIX Thread
-  * 5.5.2 The SHellcode
+  * 5.5.2 The Shellcode
 * 5.6 Wrapping Up
 
 ### 6. Function Hooking on macOS 
